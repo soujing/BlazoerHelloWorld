@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\sou54\\Desktop\\클라우드기반_Devops_자동화\\BlazoerHelloWorld\\BlazoerHelloWorld\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazoerHelloWorld.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BlazoerHelloWorld.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\sou54\\Desktop\\클라우드기반_Devops_자동화\\BlazoerHelloWorld\\BlazoerHelloWorld\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\sou54\\Desktop\\클라우드기반_Devops_자동화\\BlazoerHelloWorld\\BlazoerHelloWorld\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sou54\\Desktop\\클라우드기반_Devops_자동화\\BlazoerHelloWorld\\BlazoerHelloWorld\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sou54\\Desktop\\클라우드기반_Devops_자동화\\BlazoerHelloWorld\\BlazoerHelloWorld\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BlazoerHelloWorld.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BlazoerHelloWorld.props",
+      "PackagePath": "build\\BlazoerHelloWorld.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BlazoerHelloWorld.props",
+      "PackagePath": "buildMultiTargeting\\BlazoerHelloWorld.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BlazoerHelloWorld.props",
+      "PackagePath": "buildTransitive\\BlazoerHelloWorld.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
